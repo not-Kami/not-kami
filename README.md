@@ -16,6 +16,3 @@ I am a developer focused on delivering scalable and user-centered applications. 
 ---
 [![](https://visitcount.itsvg.in/api?id=not-kami&icon=2&color=12)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nacho_fuerte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FuerteNacho) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Saint_thetiseur) 
-
